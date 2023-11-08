@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" height="250px" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
+<img align="center" alt="Coding" width="100%" height="270px" src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
 
 <h1 align="center">Hi, I'm Berenalp</h1>
 <h3 align="center">Third-year Student at 📍TNKU Computer Engineering 🔌. I enjoy reading books 📚 and solving problems 📝 using Computer Science 💻.</h3>
