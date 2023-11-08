@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="100%" height="250px" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
 
-<h1 align="left">Hi, I'm Berenalp</h1>
-<h3 align="left">Third-year Student at 📍TNKU Computer Engineering 🔌. I enjoy reading books 📚 and solving problems 📝 using Computer Science 💻.</h3>
+<h1 align="center">Hi, I'm Berenalp</h1>
+<h3 align="center">Third-year Student at 📍TNKU Computer Engineering 🔌. I enjoy reading books 📚 and solving problems 📝 using Computer Science 💻.</h3>
 
 - 🌱 I’m currently learning **Solidity, javascript**
 
