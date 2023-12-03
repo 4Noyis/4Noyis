@@ -2,9 +2,9 @@
 <h1 align="center">Hi, I'm Berenalp</h1>
 <h3 align="center">Third-year Student at 📍TNKU Computer Engineering. I enjoy reading books and solving problems using Computer Science.</h3>
 
-- 🌱 I’m currently learning **Solidity, javascript**
+- I’m currently learning **Solidity, javascript**
 
-- 📫 How to reach me **berenalpb@outlook.com**
+- How to reach me **berenalpb@outlook.com**
 
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/1i0Igjq1XDAwVyLVLVChoCs6pVbrZcg3sAatRzavmiu8/edit?usp=sharing">CV</a>
 
