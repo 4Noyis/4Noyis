@@ -6,7 +6,6 @@
 
 - How to reach me **berenalpb@outlook.com**
 
-- 📄 Know about my experiences <a href="https://docs.google.com/document/d/1i0Igjq1XDAwVyLVLVChoCs6pVbrZcg3sAatRzavmiu8/edit?usp=sharing">CV</a>
 
 <img align="center" alt="Coding" width="100%" height="10px" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <h3 align="left">Languages and Tools:</h3>
