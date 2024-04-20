@@ -13,4 +13,3 @@
 <img align="center" alt="Coding" width="100%" height="10px" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4noyis&show_icons=true&locale=en&layout=compact" alt="4noyis" /></p>
 <img src="https://tryhackme-badges.s3.amazonaws.com/n0yis.png" alt="TryHackMe">
-
