@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Berenalp</h1>
 <h3 align="center">Third-year Student at 📍TNKU Computer Engineering. I enjoy reading books and solving problems using Computer Science.</h3>
 
-- I’m currently learning **Solidity, javascript**
+- I’m currently learning **GOlang, javascript**
 
 - How to reach me **berenalpb@outlook.com**
 
