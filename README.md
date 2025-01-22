@@ -1,7 +1,21 @@
+```yaml
+4Noyis@github
 
- ____                            _       
-| __ )  ___ _ __ ___ _ __   __ _| |_ __  
-|  _ \ / _ \ '__/ _ \ '_ \ / _` | | '_ \ 
-| |_) |  __/ | |  __/ | | | (_| | | |_) |
-|____/ \___|_|  \___|_| |_|\__,_|_| .__/ 
-                                  |_|    
+OS:                macOS, Linux
+Uptime:            22 years 
+Host:              Self-Hosted
+IDE:               VSCode, Nvim
+
+Languages.Programming:   Go, Python, JavaScript, HTML/CSS, Bootstrap, 
+Languages.Real:          English, Turkish
+
+Hobbies.Software:        Open-source Contributions, Game Development, [Other software hobbies]
+Hobbies.Hardware:        Overclocking, Building PCs, [Other hardware hobbies]
+
+- Contact -
+Email.Personal:          [YourPersonalEmail]
+Email.Work:              [YourWorkEmail]
+LinkedIn:                [YourLinkedInProfile]
+Discord:                 [YourDiscordTag]
+Website:                 [YourWebsite or Portfolio]
+```
