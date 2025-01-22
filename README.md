@@ -6,7 +6,7 @@ Uptime:                  22 years
 Host:                    Self-Hosted
 IDE:                     VSCode, Neovim
 
-Languages.Programming:   Go, Python, JavaScript, HTML/CSS, Bootstrap, C
+Languages.Programming:   Go, Docker, Python, JavaScript, HTML/CSS, Bootstrap, C
 Languages.Real:          English, Turkish
 
 Hobbies:                 Video Games, Reading Fiction, Basketball, Tennis
