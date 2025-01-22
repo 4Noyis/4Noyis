@@ -1,6 +1,10 @@
 
-<h1 align="center">Hi, I'm Berenalp</h1>
-<h3 align="center">Third-year Student at 📍TNKU Computer Engineering. I enjoy reading books and solving problems using Computer Science.</h3>
+ ____                            _       ____                   _          _ 
+| __ )  ___ _ __ ___ _ __   __ _| |_ __ | __ )  ___ _   _  __ _(_)_ __ ___(_)
+|  _ \ / _ \ '__/ _ \ '_ \ / _` | | '_ \|  _ \ / _ \ | | |/ _` | | '__/ __| |
+| |_) |  __/ | |  __/ | | | (_| | | |_) | |_) |  __/ |_| | (_| | | | | (__| |
+|____/ \___|_|  \___|_| |_|\__,_|_| .__/|____/ \___|\__, |\__, |_|_|  \___|_|
+                                  |_|               |___/ |___/              
 
 - I’m currently learning **GOlang, javascript**
 
