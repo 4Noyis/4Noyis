@@ -14,5 +14,6 @@ Hobbies:                 Video Games, Reading Fiction, Basketball, Tennis
 - Contact -
 Email.Personal:          berenalpb@outlook.com
 LinkedIn:                linkedin.com/in/berenalpbeygirci
-Discord:                 n0yis [noyisullah]
+Medium:..................medium.com/@berenalpb
+Discord:.................n0yis [noyisullah]
 ```
