@@ -9,7 +9,7 @@ IDE:                     VSCode, Neovim
 Languages.Programming:   Go, Docker, Python, JavaScript, HTML/CSS, Bootstrap, C
 Languages.Real:          English, Turkish
 
-Hobbies:                 Video Games, Reading Fiction, Basketball, Tennis
+Hobbies:                 Video Games, Reading Fiction, DIY Projects
 
 - Contact -
 Email.Personal:          berenalpb@outlook.com
