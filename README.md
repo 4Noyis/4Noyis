@@ -15,5 +15,5 @@ Hobbies:                 Video Games, Reading Fiction, DIY Projects
 Email.Personal:          berenalpb@outlook.com
 LinkedIn:                linkedin.com/in/berenalpbeygirci
 Medium:                  medium.com/@berenalpb
-Discord:                 n0yis [noyisullah]
+Discord:                 n0yis
 ```
