@@ -2,7 +2,7 @@
 4Noyis@github
 
 OS:                      macOS, Linux
-Uptime:                  22 years 
+Uptime:                  23 years 
 Host:                    Self-Hosted
 IDE:                     VSCode, Neovim
 
@@ -13,6 +13,7 @@ Hobbies:                 Video Games, Reading Fiction, DIY Projects
 
 - Contact -
 Email.Personal:          berenalpb@outlook.com
+Website:                 berenalp.me
 LinkedIn:                linkedin.com/in/berenalpbeygirci
 Medium:                  medium.com/@berenalpb
 Discord:                 n0yis
