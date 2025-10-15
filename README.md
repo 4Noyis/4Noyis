@@ -4,7 +4,7 @@
 OS:                      macOS, Linux
 Uptime:                  23 years 
 Host:                    Self-Hosted
-IDE:                     VSCode, Neovim
+IDE:                     Zed,VSCode
 
 Languages.Programming:   Go, Docker, Python, JavaScript, HTML/CSS, Bootstrap, C
 Languages.Real:          English, Turkish
